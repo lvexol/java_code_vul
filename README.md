@@ -103,7 +103,10 @@ The LSTM model successfully classified Java code snippets as vulnerable or non-v
 
 11. **Output Screenshots**
 
-*(Screenshots showing the tool’s predictions and classification results)*
+![](Aspose.Words.b7c728c7-6e89-4ddd-88d9-5c4c736d461a.002.jpeg)
+
+![](Aspose.Words.b7c728c7-6e89-4ddd-88d9-5c4c736d461a.003.jpeg)
+
 
 12. **Conclusion**
 
