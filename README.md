@@ -64,6 +64,8 @@ model = tf.keras.Sequential([
 
 The model was compiled using the **Adam optimizer** and **binary cross-entropy loss**, and trained for 5 epochs.
 
+![](Aspose.Words.b7c728c7-6e89-4ddd-88d9-5c4c736d461a.001.jpeg)
+
 7. **Training and Evaluation**
 
 1. ***Training***
