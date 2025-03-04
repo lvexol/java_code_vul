@@ -24,13 +24,6 @@ The extraction process involves identifying Java code within the MegaVul dataset
 
 2. ***Extraction Process***
 
-We used a code extraction method to obtain Java functions from the MegaVul dataset in the following steps:
-
-- **Identifying Java Code**: The dataset was analyzed to locate Java functions embedded in the MegaVul dataset.
-- **Syntax Tree Analysis**: Extracted code snippets were processed to ensure they adhere to Java syntax.
-- **Filtering and Cleaning**: Non-Java code and incomplete snippets were removed, ensuring high-quality data.
-- **Java-Specific Augmentation**: After extracting Java code, we augmented it with Java-specific vulnerabilities, such as SQL injection, deserialization issues, and improper exception handling.
-
 5. **Methodology**
 
 1. ***Data Preprocessing***
