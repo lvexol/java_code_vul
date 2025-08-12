@@ -57,7 +57,7 @@ model = tf.keras.Sequential([
 
 The model was compiled using the **Adam optimizer** and **binary cross-entropy loss**, and trained for 5 epochs.
 
-![](Aspose.Words.b7c728c7-6e89-4ddd-88d9-5c4c736d461a.001.jpeg)
+![](screenshots/architecture.jpeg)
 
 7. **Training and Evaluation**
 
@@ -98,9 +98,9 @@ The LSTM model successfully classified Java code snippets as vulnerable or non-v
 
 11. **Output Screenshots**
 
-![](Aspose.Words.b7c728c7-6e89-4ddd-88d9-5c4c736d461a.002.jpeg)
+![](screenshots/ss1.jpeg)
 
-![](Aspose.Words.b7c728c7-6e89-4ddd-88d9-5c4c736d461a.003.jpeg)
+![](screenshots/ss2.jpeg)
 
 
 12. **Conclusion**
@@ -114,3 +114,4 @@ Using **a code extraction method**, we efficiently extracted Java code from the 
 
 14. **References**
 - Chao Ni et al. (2024). *MegaVul: A C/C++ Vulnerability Dataset with Comprehensive Code Representations*. MSR ’24 (2406.12415v1).
+
